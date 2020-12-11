@@ -1,1 +1,2 @@
-# mcp-docs
+# Initial page
+
